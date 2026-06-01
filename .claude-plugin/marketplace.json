@@ -1,0 +1,17 @@
+{
+  "name": "token-coach",
+  "owner": {
+    "name": "Moustafa Mahran",
+    "email": "moustafa.mahran@factorial.co"
+  },
+  "description": "Marketplace for the token-coach Claude Code plugin.",
+  "version": "0.1.0",
+  "plugins": [
+    {
+      "name": "token-coach",
+      "source": ".",
+      "description": "Context/token cost meter + coaching for Claude Code.",
+      "version": "0.1.0"
+    }
+  ]
+}

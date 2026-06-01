@@ -1,0 +1,4 @@
+# token-coach keeps all session state under ~/.claude/token-coach/ — never in the repo.
+*.tmp.*
+.DS_Store
+state/

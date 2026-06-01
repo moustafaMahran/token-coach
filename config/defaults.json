@@ -1,0 +1,28 @@
+{
+  "baselineMode": true,
+
+  "statusline": {
+    "enabled": true,
+    "amber_ctx": 70,
+    "red_ctx": 85
+  },
+
+  "submitGuard": {
+    "enabled": false,
+    "strict": false,
+    "pasteLineThreshold": 150,
+    "clearCtxPct": 75,
+    "idleCacheWarnMins": 5
+  },
+
+  "wasteSniffer": {
+    "enabled": true,
+    "hugeReadLines": 1000,
+    "rereadGuard": true
+  },
+
+  "telemetry": {
+    "datadog": false,
+    "otlpEndpoint": ""
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "token-coach",
+  "description": "Makes Claude Code context/token cost visible and coachable — a live budget meter in the status line, a /cost-review session report, and observe-only prompt/context nudges. Aggregate-only, no code or prompt text ever leaves the machine.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Moustafa Mahran",
+    "email": "moustafa.mahran@factorial.co"
+  },
+  "license": "MIT",
+  "keywords": ["cost", "tokens", "observability", "context", "budget", "telemetry"]
+}
