@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "token-coach",
-      "source": ".",
+      "source": "./plugins/token-coach",
       "description": "Context/token cost meter + coaching for Claude Code.",
       "version": "0.1.0"
     }
